@@ -1,0 +1,421 @@
+{
+    "8029744417": {
+        "user_id": 8029744417,
+        "name": "Ozodbek1",
+        "phone": "+998335204480",
+        "location": {
+            "latitude": 68.882393,
+            "longitude": 81.000045
+        },
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251215121228",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 1,
+                "total": 900000,
+                "date": "2025-12-15 12:12:28",
+                "status": "delivered",
+                "courier_id": "5879651176",
+                "courier_username": "collect_it",
+                "accepted_at": "2025-12-15 12:15:34",
+                "delivered_at": "2025-12-15 12:16:04",
+                "commission_amount": 90000
+            },
+            {
+                "order_id": "20251215121717",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 5,
+                "total": 4500000,
+                "date": "2025-12-15 12:17:17",
+                "status": "delivered",
+                "courier_id": "5879651176",
+                "courier_username": "collect_it",
+                "accepted_at": "2025-12-15 12:18:13",
+                "delivered_at": "2025-12-15 12:19:04",
+                "commission_amount": 450000
+            },
+            {
+                "order_id": "20251215121756",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 1,
+                "total": 900000,
+                "date": "2025-12-15 12:17:56",
+                "status": "delivered",
+                "courier_id": "6415095591",
+                "courier_username": "marvistr",
+                "accepted_at": "2025-12-15 12:18:35",
+                "delivered_at": "2025-12-15 12:19:09",
+                "commission_amount": 90000
+            },
+            {
+                "order_id": "20251215121804",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 1,
+                "total": 900000,
+                "date": "2025-12-15 12:18:04",
+                "status": "delivered",
+                "courier_id": "5879651176",
+                "courier_username": "collect_it",
+                "accepted_at": "2025-12-15 12:19:08",
+                "delivered_at": "2025-12-15 12:19:10",
+                "commission_amount": 90000
+            }
+        ],
+        "registered_date": "2025-12-15 12:11:41",
+        "product_messages": {
+            "2": 2567
+        }
+    },
+    "5879651176": {
+        "user_id": 5879651176,
+        "username": "collect_it",
+        "name": "Ozodbek",
+        "phone": "998915204480",
+        "home_location_geo": {
+            "latitude": 39.67403,
+            "longitude": 66.973966
+        },
+        "home_location_text": "17A",
+        "current_location_geo": {
+            "latitude": 39.673989,
+            "longitude": 66.973988
+        },
+        "current_location_text": "Dhsbdbsvsbsvs",
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251223122742",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 1,
+                "total": 150000,
+                "date": "2025-12-23 12:27:42",
+                "status": "delivered",
+                "rated": false,
+                "location_geo": {
+                    "latitude": 39.67403,
+                    "longitude": 66.973966
+                },
+                "location_text": "17A",
+                "delivery_time": "Hozir",
+                "comment": "17a 4 etaj",
+                "with_cap": true,
+                "courier_id": "6415095591",
+                "accepted_at": "2025-12-23 12:30:32",
+                "delivered_at": "2025-12-23 12:30:44",
+                "commission_amount": 15000
+            },
+            {
+                "order_id": "20251223125220",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 3,
+                "total": 450000,
+                "date": "2025-12-23 12:52:20",
+                "status": "delivered",
+                "rated": true,
+                "location_geo": {
+                    "latitude": 39.67403,
+                    "longitude": 66.973966
+                },
+                "location_text": "17A",
+                "delivery_time": "Hozir",
+                "comment": "Hdgsgsvs",
+                "with_cap": true,
+                "rating": 5,
+                "courier_id": "5879651176",
+                "accepted_at": "2025-12-24 17:32:34",
+                "delivered_at": "2025-12-24 17:32:36",
+                "commission_amount": 45000
+            },
+            {
+                "order_id": "20251223125251",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 1,
+                "total": 150000,
+                "date": "2025-12-23 12:52:51",
+                "status": "delivered",
+                "rated": false,
+                "location_geo": {
+                    "latitude": 39.673989,
+                    "longitude": 66.973988
+                },
+                "location_text": "Dhsbdbsvsbsvs",
+                "delivery_time": "Boshqa kunga",
+                "comment": "Aka ertaga qiling",
+                "with_cap": true,
+                "courier_id": "5879651176",
+                "accepted_at": "2025-12-24 17:32:30",
+                "delivered_at": "2025-12-24 17:32:32",
+                "commission_amount": 15000
+            },
+            {
+                "order_id": "20251226154427",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 1,
+                "total": 150000,
+                "date": "2025-12-26 15:44:27",
+                "status": "pending",
+                "rated": true,
+                "location_geo": {
+                    "latitude": 39.67403,
+                    "longitude": 66.973966
+                },
+                "location_text": "17A",
+                "delivery_time": "Hozir",
+                "comment": "isfdijfs",
+                "with_cap": true,
+                "rating": 5
+            }
+        ],
+        "registered_date": "2025-12-23 12:27:20",
+        "product_messages": {
+            "2": 5874,
+            "3": 5875
+        }
+    },
+    "5111382924": {
+        "user_id": 5111382924,
+        "name": "Azamat",
+        "phone": "+998931305077",
+        "location": {
+            "latitude": 39.675741,
+            "longitude": 66.975106
+        },
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251215162640",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 5,
+                "total": 4500000,
+                "date": "2025-12-15 16:26:40",
+                "status": "delivered",
+                "courier_id": "5879651176",
+                "courier_username": "collect_it",
+                "accepted_at": "2025-12-15 16:26:46",
+                "delivered_at": "2025-12-15 16:27:19",
+                "commission_amount": 450000
+            },
+            {
+                "order_id": "20251215162644",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 2,
+                "total": 300000,
+                "date": "2025-12-15 16:26:44",
+                "status": "delivered",
+                "courier_id": "5879651176",
+                "courier_username": "collect_it",
+                "accepted_at": "2025-12-16 14:17:30",
+                "delivered_at": "2025-12-16 14:17:32",
+                "commission_amount": 30000
+            }
+        ],
+        "registered_date": "2025-12-15 16:25:04",
+        "product_messages": {
+            "2": 2668,
+            "3": 2669
+        }
+    },
+    "1838467731": {
+        "user_id": 1838467731,
+        "name": "Assalomu aleykum",
+        "phone": "998904651215",
+        "location": {
+            "latitude": 39.674446,
+            "longitude": 66.97323
+        },
+        "cart": {
+            "3": 2
+        },
+        "orders": [],
+        "registered_date": "2025-12-16 17:28:14",
+        "product_messages": {
+            "2": 2987,
+            "3": 2988
+        }
+    },
+    "6415095591": {
+        "user_id": 6415095591,
+        "username": "marvistr",
+        "name": "Ziyo",
+        "phone": "998993121154",
+        "home_location_geo": {
+            "latitude": 39.6752,
+            "longitude": 66.973825
+        },
+        "home_location_text": "Samarqand",
+        "current_location_geo": {
+            "latitude": 39.675025,
+            "longitude": 66.97329
+        },
+        "current_location_text": "Samarqand",
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251224173139",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 2,
+                "total": 1800000,
+                "date": "2025-12-24 17:31:39",
+                "status": "delivered",
+                "rated": true,
+                "location_geo": {
+                    "latitude": 39.6752,
+                    "longitude": 66.973825
+                },
+                "location_text": "Samarqand",
+                "delivery_time": "Hozir",
+                "comment": "Wiks dkahz",
+                "with_cap": true,
+                "rating": 5,
+                "courier_id": "5879651176",
+                "accepted_at": "2025-12-24 17:32:26",
+                "delivered_at": "2025-12-24 17:32:28",
+                "commission_amount": 180000
+            },
+            {
+                "order_id": "20251224173321",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 3,
+                "total": 450000,
+                "date": "2025-12-24 17:33:21",
+                "status": "delivered",
+                "rated": false,
+                "location_geo": {
+                    "latitude": 39.675025,
+                    "longitude": 66.97329
+                },
+                "location_text": "Samarqand",
+                "delivery_time": "Hozir",
+                "comment": "Skksw sksjsj",
+                "with_cap": true,
+                "courier_id": "5879651176",
+                "accepted_at": "2025-12-24 17:34:03",
+                "delivered_at": "2025-12-24 17:34:11",
+                "commission_amount": 45000
+            }
+        ],
+        "registered_date": "2025-12-24 15:23:07",
+        "product_messages": {
+            "2": 5302,
+            "3": 5303
+        }
+    },
+    "6682365231": {
+        "user_id": 6682365231,
+        "name": "ziyo",
+        "phone": "+998913131154",
+        "location": {
+            "latitude": 38.272112,
+            "longitude": -95.980005
+        },
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251218224601",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 1,
+                "total": 150000,
+                "date": "2025-12-18 22:46:01",
+                "status": "delivered",
+                "courier_id": "6415095591",
+                "accepted_at": "2025-12-18 22:46:30",
+                "delivered_at": "2025-12-18 22:46:52",
+                "commission_amount": 15000
+            },
+            {
+                "order_id": "20251218224610",
+                "product_id": "2",
+                "product_name": "Jonka",
+                "price": 900000,
+                "quantity": 2,
+                "total": 1800000,
+                "date": "2025-12-18 22:46:10",
+                "status": "delivered",
+                "courier_id": "6415095591",
+                "accepted_at": "2025-12-18 22:46:55",
+                "delivered_at": "2025-12-18 22:46:57",
+                "commission_amount": 180000
+            }
+        ],
+        "registered_date": "2025-12-18 22:45:51",
+        "product_messages": {
+            "2": 3297,
+            "3": 3298
+        }
+    },
+    "6639601593": {
+        "user_id": 6639601593,
+        "username": "niiluur",
+        "name": "Nilufar",
+        "phone": "998932095928",
+        "home_location_geo": {
+            "latitude": 20.659324,
+            "longitude": -11.406255
+        },
+        "home_location_text": "Hggggg",
+        "current_location_geo": {
+            "latitude": 20.659324,
+            "longitude": -11.406255
+        },
+        "current_location_text": "Hggxxg",
+        "cart": {},
+        "orders": [
+            {
+                "order_id": "20251223125519",
+                "product_id": "3",
+                "product_name": "azamat suv",
+                "price": 150000,
+                "quantity": 1,
+                "total": 150000,
+                "date": "2025-12-23 12:55:19",
+                "status": "delivered",
+                "rated": true,
+                "location_geo": {
+                    "latitude": 20.659324,
+                    "longitude": -11.406255
+                },
+                "location_text": "Hggxxg",
+                "delivery_time": "Hozir",
+                "comment": "Cccccc",
+                "with_cap": true,
+                "rating": 5,
+                "courier_id": "5879651176",
+                "accepted_at": "2025-12-23 12:56:30",
+                "delivered_at": "2025-12-23 12:56:41",
+                "commission_amount": 15000
+            }
+        ],
+        "registered_date": "2025-12-23 12:54:41",
+        "product_messages": {
+            "2": 4166,
+            "3": 4167
+        }
+    }
+}
