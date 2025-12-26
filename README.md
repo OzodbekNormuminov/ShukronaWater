@@ -1,1 +1,1 @@
-# ShukronaWater
+# Shukrona-Suvlari-Bot
